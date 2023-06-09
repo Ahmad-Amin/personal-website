@@ -40,7 +40,7 @@ const Work = () => {
   }
   return (
     <Fragment>
-      <h2 className='head-text'>My Creative <span>Profoilio</span> Section</h2>
+      <h2 className='head-text'>My Creative <span>Portfolio</span> Section</h2>
 
       <div className='app__work-filter'>
         {['Websites', 'Ruby On Rails', 'Programming', 'React JS', 'All'].map((item, index) => (
